@@ -17,13 +17,12 @@ Autor:ISABELA FISTAROL FERREIRA
 Repositório: Portal de Periódicos FURB
 
 Link para acesso:https://www.furb.br/dsc/arquivos/tccs/monografias/2018_1_isabela-fistarol-ferreira_monografia.pdf
+
 ------------
-Título:
-Autor:
-Repositório:
-Link para acesso:
----------------------
-Título:
-Autor:
-Repositório:
-Link para acesso:
+Título:“REMÉDIO DA HORA”: UMA APLICAÇÃO ANDROID PARA CONTROLE DE MEDICAMENTO
+
+Autor:Jonatas Sartorelli Prato
+
+Repositório:Repositório Digital da Biblioteca da Unisinos
+
+Link para acesso:http://repositorio.jesuita.org.br/bitstream/handle/UNISINOS/5326/Jonatas+Sartorelli+Prato-Monografia_.pdf?sequence=1
